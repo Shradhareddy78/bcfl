@@ -1,0 +1,51 @@
+Blood_glucose,HbA1C,Systolic_BP,Diastolic_BP,LDL,HDL,Triglycerides,Haemoglobin,MCV,Condition,clinical_notes
+122.45,6.36,122.51,79.58,92.54,35.39,89.41,14.48,71.65,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+112.93,5.79,124.24,81.61,122.38,57.18,104.19,17.05,80.61,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+124.72,5.56,105.76,86.83,124.72,69.22,176.1,15.69,86.05,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+137.85,6.59,122.18,86.54,110.93,58.32,168.57,13.45,86.42,Diabetic,Elevated glucose levels indicate poor glycemic control.
+111.49,6.92,123.28,62.22,130.16,32.81,133.85,13.76,81.95,Diabetic,Elevated glucose levels indicate poor glycemic control.
+111.49,6.85,105.14,66.62,147.12,43.16,141.45,11.59,91.61,Diabetic,Elevated glucose levels indicate poor glycemic control.
+138.69,5.43,151.58,81.15,191.59,60.67,205.27,13.76,76.39,Diabetic,Elevated glucose levels indicate poor glycemic control.
+126.51,5.85,126.53,81.14,140.24,40.92,102.46,13.16,84.72,Diabetic,Elevated glucose levels indicate poor glycemic control.
+107.96,6.37,96.56,81.15,142.73,52.44,165.09,14.51,87.08,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+123.14,6.88,129.82,114.53,132.77,55.75,123.88,11.98,90.63,Diabetic,Elevated glucose levels indicate poor glycemic control.
+108.05,5.72,100.46,81.71,77.44,38.73,123.03,14.94,92.4,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+108.01,5.95,132.17,87.36,134.2,47.4,195.43,17.17,75.88,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+118.63,5.21,138.85,85.54,136.81,15.59,180.4,13.56,72.19,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+86.3,5.14,103.23,82.51,208.9,37.76,179.74,14.68,97.5,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+89.13,6.75,135.34,72.85,129.23,45.47,206.8,15.32,88.99,Diabetic,Elevated glucose levels indicate poor glycemic control.
+106.57,7.18,125.43,83.59,144.05,35.52,136.16,12.92,79.26,Diabetic,Elevated glucose levels indicate poor glycemic control.
+99.81,6.04,132.8,68.27,133.96,64.32,172.51,14.29,99.96,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+119.71,6.9,152.14,73.63,99.94,33.7,117.94,13.83,87.04,Diabetic,Elevated glucose levels indicate poor glycemic control.
+101.38,6.39,113.58,71.15,169.28,43.6,152.83,14.01,96.61,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+93.82,5.58,104.43,76.82,157.56,49.31,127.84,12.1,86.61,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+136.98,6.39,101.99,99.15,158.73,62.41,140.33,13.85,104.55,Diabetic,Elevated glucose levels indicate poor glycemic control.
+111.61,7.33,103.32,57.33,107.72,33.64,167.73,14.9,101.8,Diabetic,Elevated glucose levels indicate poor glycemic control.
+116.01,6.07,116.61,82.86,177.08,59.63,90.0,16.99,83.76,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+93.63,7.35,124.14,59.87,92.94,48.1,250.08,15.91,94.74,Diabetic,Elevated glucose levels indicate poor glycemic control.
+106.83,4.0,122.98,71.28,152.61,38.18,79.67,18.54,91.81,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+116.66,6.76,132.89,86.89,200.71,52.62,68.22,12.11,98.32,Diabetic,Elevated glucose levels indicate poor glycemic control.
+97.74,6.17,118.23,76.64,105.28,49.99,198.7,15.72,77.32,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+120.64,5.86,144.16,65.22,118.01,42.0,178.54,14.2,92.17,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+105.99,6.17,113.24,68.85,137.99,48.7,169.33,18.62,95.53,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+110.62,4.51,166.96,82.8,119.9,44.15,169.56,12.02,70.17,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+105.97,5.92,129.26,68.7,88.48,49.14,134.33,11.95,75.35,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+142.78,6.39,102.57,78.16,137.06,54.62,85.65,12.48,67.65,Diabetic,Elevated glucose levels indicate poor glycemic control.
+114.8,7.28,98.72,76.46,103.13,63.86,139.17,9.13,83.58,Diabetic,Elevated glucose levels indicate poor glycemic control.
+99.13,5.69,126.68,69.48,149.21,35.62,97.76,12.64,92.46,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+127.34,5.45,113.98,97.44,107.42,69.33,188.63,12.13,99.52,Diabetic,Elevated glucose levels indicate poor glycemic control.
+96.69,5.7,130.85,82.34,181.5,28.48,126.91,14.13,86.67,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+118.13,6.83,126.52,55.75,111.5,46.48,89.6,14.55,100.66,Diabetic,Elevated glucose levels indicate poor glycemic control.
+85.6,6.36,116.69,77.86,125.34,53.88,117.32,17.93,73.58,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+95.08,5.68,102.76,69.38,159.41,50.81,157.71,15.89,70.67,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+117.95,6.51,90.73,84.52,98.07,41.77,104.0,12.53,85.5,Diabetic,Elevated glucose levels indicate poor glycemic control.
+126.08,6.18,109.96,68.07,141.82,45.92,89.78,11.82,89.46,Diabetic,Elevated glucose levels indicate poor glycemic control.
+117.57,6.87,133.42,74.85,174.21,43.07,148.4,14.88,85.71,Diabetic,Elevated glucose levels indicate poor glycemic control.
+113.27,5.54,121.85,81.05,86.78,42.11,148.47,10.9,67.39,Anemia,Patient shows low haemoglobin levels with reduced red cell indices.
+110.48,5.84,95.58,84.66,140.54,56.5,107.12,17.83,85.2,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+92.82,5.79,121.12,64.0,142.8,51.57,109.09,16.39,74.26,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+104.2,4.93,124.94,72.65,158.45,41.07,147.76,12.77,92.03,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+108.09,6.34,102.09,71.25,97.89,57.0,55.36,10.03,89.3,Anemia,Patient shows low haemoglobin levels with reduced red cell indices.
+130.86,6.31,120.77,69.47,95.39,51.07,57.59,16.78,77.54,Diabetic,Elevated glucose levels indicate poor glycemic control.
+120.15,6.1,119.05,93.65,150.66,56.13,95.49,13.55,81.38,Fit,Vital signs and blood markers are within acceptable healthy ranges.
+88.55,5.91,97.43,80.05,143.91,54.3,123.26,16.52,76.47,Fit,Vital signs and blood markers are within acceptable healthy ranges.

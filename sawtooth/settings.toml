@@ -1,0 +1,3 @@
+[sawtooth.consensus.algorithm]
+name = "devmode"
+version = "1.0"
